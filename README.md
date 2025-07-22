@@ -193,7 +193,7 @@ Follow these steps to explore and run the Zepto SQL Data Analysis Project on you
 
 git clone https://github.com/padmasharadhabadrinath/zepto-SQL-data-analysis-project.git
 cd zepto-SQL-data-analysis-project
-Replace your-username with your actual GitHub username if you fork it.
+
 
 2. 🗃️ Load the Dataset
 You can use either of the following:
